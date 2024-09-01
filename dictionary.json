@@ -1,0 +1,455 @@
+{
+      "a": {
+        "meaning": "Ah! Ha! (emphasis, surprise, or affirmation)",
+        "symbol": ""
+      },
+      "akesi": {
+        "meaning": "Reptile, amphibian, non-cute animal",
+        "symbol": ""
+      },
+      "ala": {
+        "meaning": "No, not, nothing, zero",
+        "symbol": ""
+      },
+      "alasa": {
+        "meaning": "To hunt, gather, forage",
+        "symbol": ""
+      },
+      "ale": {
+        "meaning": "All, everything, life, the universe, 100",
+        "symbol": ""
+      },
+      "ali": {
+        "meaning": "All, everything, life, the universe, 100",
+        "symbol": ""
+      },
+      "anpa": {
+        "meaning": "Bottom, down, lower, beneath, ground",
+        "symbol": ""
+      },
+      "ante": {
+        "meaning": "Different, change, other, otherwise",
+        "symbol": ""
+      },
+      "anu": {
+        "meaning": "Or",
+        "symbol": ""
+      },
+      "awen": {
+        "meaning": "To stay, to wait, to remain, to continue, remaining, stationary",
+        "symbol": ""
+      },
+      "e": {
+        "meaning": "(precedes the direct object)",
+        "symbol": ""
+      },
+      "en": {
+        "meaning": "And (used to coordinate nouns)",
+        "symbol": ""
+      },
+      "esun": {
+        "meaning": "Market, shop, fair, business",
+        "symbol": ""
+      },
+      "ijo": {
+        "meaning": "Thing, something, stuff, anything, object",
+        "symbol": ""
+      },
+      "ike": {
+        "meaning": "Bad, negative, wrong, evil, complex",
+        "symbol": ""
+      },
+      "ilo": {
+        "meaning": "Tool, device, machine, thing used for a specific purpose",
+        "symbol": ""
+      },
+      "insa": {
+        "meaning": "Inside, inner world, center, stomach",
+        "symbol": ""
+      },
+      "jaki": {
+        "meaning": "Dirty, disgusting, gross, pollution",
+        "symbol": ""
+      },
+      "jan": {
+        "meaning": "Person, people, human, being, somebody",
+        "symbol": ""
+      },
+      "jelo": {
+        "meaning": "Yellow",
+        "symbol": ""
+      },
+      "jo": {
+        "meaning": "To have, to contain, to carry",
+        "symbol": ""
+      },
+      "kala": {
+        "meaning": "Fish, sea creature",
+        "symbol": ""
+      },
+      "kalama": {
+        "meaning": "Sound, noise, voice, to make noise",
+        "symbol": ""
+      },
+      "kama": {
+        "meaning": "To come, to become, to happen, event, arrival",
+        "symbol": ""
+      },
+      "kasi": {
+        "meaning": "Plant, leaf, herb, tree, wood",
+        "symbol": ""
+      },
+      "ken": {
+        "meaning": "To be able to, can, may, possible, possibility",
+        "symbol": ""
+      },
+      "kepeken": {
+        "meaning": "To use, with, by means of",
+        "symbol": ""
+      },
+      "kili": {
+        "meaning": "Fruit, vegetable, mushroom",
+        "symbol": ""
+      },
+      "kin": {
+        "meaning": "Also, too, even, indeed",
+        "symbol": ""
+      },
+      "kipisi": {
+        "meaning": "To cut",
+        "symbol": ""
+      },
+      "kiwen": {
+        "meaning": "Hard, solid, stone, metal, clay, rock",
+        "symbol": ""
+      },
+      "ko": {
+        "meaning": "Semi-solid, paste, powder, gooey substance",
+        "symbol": ""
+      },
+      "kon": {
+        "meaning": "Air, wind, breath, soul, spirit, invisible thing",
+        "symbol": ""
+      },
+      "kule": {
+        "meaning": "Color, paint, pigment, colorful",
+        "symbol": ""
+      },
+      "kulupu": {
+        "meaning": "Group, community, society, company, people",
+        "symbol": ""
+      },
+      "kute": {
+        "meaning": "To listen, to hear",
+        "symbol": ""
+      },
+      "la": {
+        "meaning": "(between adverb or phrase of context and sentence)",
+        "symbol": ""
+      },
+      "lape": {
+        "meaning": "Sleep, to rest",
+        "symbol": ""
+      },
+      "laso": {
+        "meaning": "Blue, green",
+        "symbol": ""
+      },
+      "lawa": {
+        "meaning": "Head, mind, main, to lead, to control, to guide",
+        "symbol": ""
+      },
+      "len": {
+        "meaning": "Cloth, clothing, fabric, textile, covering",
+        "symbol": ""
+      },
+      "lete": {
+        "meaning": "Cold, uncooked, raw",
+        "symbol": ""
+      },
+      "li": {
+        "meaning": "(separates subject from verb)",
+        "symbol": ""
+      },
+      "lili": {
+        "meaning": "Small, little, tiny, less, young, a bit, short",
+        "symbol": ""
+      },
+      "linja": {
+        "meaning": "Long, thin, flexible thing, thread, rope, hair",
+        "symbol": ""
+      },
+      "lipu": {
+        "meaning": "Flat and bendable thing, paper, card, ticket",
+        "symbol": ""
+      },
+      "loje": {
+        "meaning": "Red",
+        "symbol": ""
+      },
+      "lon": {
+        "meaning": "To be present, to exist, true, to be (somewhere)",
+        "symbol": ""
+      },
+      "lu": {
+        "meaning": "To divide, cut, separate",
+        "symbol": ""
+      },
+      "luka": {
+        "meaning": "Hand, arm, five",
+        "symbol": ""
+      },
+      "lukin": {
+        "meaning": "To look, see, watch, read, seek, to try",
+        "symbol": ""
+      },
+      "lupa": {
+        "meaning": "Hole, orifice, window, door",
+        "symbol": ""
+      },
+      "ma": {
+        "meaning": "Land, earth, country, outside, world",
+        "symbol": ""
+      },
+      "mama": {
+        "meaning": "Parent, mother, father, creator",
+        "symbol": ""
+      },
+      "mani": {
+        "meaning": "Money, cash, savings, wealth, currency",
+        "symbol": ""
+      },
+      "meli": {
+        "meaning": "Woman, female, feminine person",
+        "symbol": ""
+      },
+      "mi": {
+        "meaning": "I, me, we, us",
+        "symbol": ""
+      },
+      "mije": {
+        "meaning": "Man, male, masculine person",
+        "symbol": ""
+      },
+      "moku": {
+        "meaning": "Food, to eat, to drink, to consume",
+        "symbol": ""
+      },
+      "moli": {
+        "meaning": "Death, to die, dead",
+        "symbol": ""
+      },
+      "monsi": {
+        "meaning": "Back, behind, rear",
+        "symbol": ""
+      },
+      "mu": {
+        "meaning": "Animal sound, especially a moo",
+        "symbol": ""
+      },
+      "mun": {
+        "meaning": "Moon, night sky object",
+        "symbol": ""
+      },
+      "musi": {
+        "meaning": "Art, entertainment, fun, game, to play",
+        "symbol": ""
+      },
+      "mute": {
+        "meaning": "Many, much, very, several, a lot, more",
+        "symbol": ""
+      },
+      "nanpa": {
+        "meaning": "Number, -th (ordinal numbers)",
+        "symbol": ""
+      },
+      "nasa": {
+        "meaning": "Silly, crazy, foolish, drunk, strange",
+        "symbol": ""
+      },
+      "nasin": {
+        "meaning": "Way, path, road, doctrine, system, method",
+        "symbol": ""
+      },
+      "nena": {
+        "meaning": "Bump, nose, hill, mountain, button",
+        "symbol": ""
+      },
+      "ni": {
+        "meaning": "This, that",
+        "symbol": ""
+      },
+      "nimi": {
+        "meaning": "Word, name",
+        "symbol": ""
+      },
+      "noka": {
+        "meaning": "Leg, foot",
+        "symbol": ""
+      },
+      "o": {
+        "meaning": "Hey! O! (vocative or imperative)",
+        "symbol": ""
+      },
+      "olin": {
+        "meaning": "Love, compassion, affection",
+        "symbol": ""
+      },
+      "ona": {
+        "meaning": "He, she, it, they, them",
+        "symbol": ""
+      },
+      "open": {
+        "meaning": "To open, turn on",
+        "symbol": ""
+      },
+      "pakala": {
+        "meaning": "To screw up, to botch, to ruin, accident, mistake",
+        "symbol": ""
+      },
+      "pali": {
+        "meaning": "To do, to make, to work, activity, project",
+        "symbol": ""
+      },
+      "palisa": {
+        "meaning": "Long, mostly hard object, stick, rod",
+        "symbol": ""
+      },
+      "pan": {
+        "meaning": "Grain, cereal, bread, pasta, rice",
+        "symbol": ""
+      },
+      "pana": {
+        "meaning": "To give, to send, to put, to place",
+        "symbol": ""
+      },
+      "pi": {
+        "meaning": "Of (used for possessives or descriptive phrases)",
+        "symbol": ""
+      },
+      "poka": {
+        "meaning": "Side, hip, with (next to, accompanying)",
+        "symbol": ""
+      },
+      "pona": {
+        "meaning": "Good, simple, positive, easy",
+        "symbol": ""
+      },
+      "pu": {
+        "meaning": "Toki Pona language book (or interaction with it)",
+        "symbol": ""
+      },
+      "sama": {
+        "meaning": "Same, sibling, family, relative",
+        "symbol": ""
+      },
+      "seli": {
+        "meaning": "Heat, fire, warm, cooking",
+        "symbol": ""
+      },
+      "seme": {
+        "meaning": "Which, what, question word",
+        "symbol": ""
+      },
+      "sena": {
+        "meaning": "Change, different, unusual",
+        "symbol": ""
+      },
+      "sike": {
+        "meaning": "Circle, sphere, round, cycle",
+        "symbol": ""
+      },
+      "sin": {
+        "meaning": "New, fresh, recent",
+        "symbol": ""
+      },
+      "sina": {
+        "meaning": "You, your, yours",
+        "symbol": ""
+      },
+      "sile": {
+        "meaning": "Skin, surface",
+        "symbol": ""
+      },
+      "simi": {
+        "meaning": "Seed, offspring, child",
+        "symbol": ""
+      },
+      "sitelen": {
+        "meaning": "To write, to draw, to depict",
+        "symbol": ""
+      },
+      "sule": {
+        "meaning": "Big, tall, large, wide",
+        "symbol": ""
+      },
+      "suno": {
+        "meaning": "Sun, light",
+        "symbol": ""
+      },
+      "supa": {
+        "meaning": "Surface, furniture, place",
+        "symbol": ""
+      },
+      "tawa": {
+        "meaning": "To move, to travel, to go",
+        "symbol": ""
+      },
+      "telo": {
+        "meaning": "Water, liquid",
+        "symbol": ""
+      },
+      "tenpo": {
+        "meaning": "Time, period, moment",
+        "symbol": ""
+      },
+      "toki": {
+        "meaning": "Language, talk, speech, communication",
+        "symbol": ""
+      },
+      "tommi": {
+        "meaning": "Food, drink, to eat, to drink",
+        "symbol": ""
+      },
+      "tomo": {
+        "meaning": "House, building, place",
+        "symbol": ""
+      },
+      "tu": {
+        "meaning": "Two",
+        "symbol": "2️"
+      },
+      "unpa": {
+        "meaning": "Sex, intercourse",
+        "symbol": "❤️"
+      },
+      "uta": {
+        "meaning": "Mouth",
+        "symbol": ""
+      },
+      "utala": {
+        "meaning": "Fight, conflict, struggle",
+        "symbol": ""
+      },
+      "walo": {
+        "meaning": "White, light color",
+        "symbol": ""
+      },
+      "wan": {
+        "meaning": "One, single",
+        "symbol": ""
+      },
+      "waso": {
+        "meaning": "Bird",
+        "symbol": ""
+      },
+      "weka": {
+        "meaning": "Away, absent, removed",
+        "symbol": ""
+      },
+      "wile": {
+        "meaning": "Want, need, desire, will",
+        "symbol": ""
+      }
+    }
+  
