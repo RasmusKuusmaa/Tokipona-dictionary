@@ -7,5 +7,4 @@ while True:
     if word in data:
         print(word,' def:' ,data[word]['meaning'])
     else:
-        break
         print('word not in dictionary')
